@@ -1,1 +1,1 @@
-# galery-backend
+# photo-gallery
